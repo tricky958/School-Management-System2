@@ -1,2 +1,9 @@
-# School-Management-System2
-A School Management System project for GitHub version control assessment.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>School Management System</title>
+</head>
+<body>
+    <h1>Welcome to School Management System</h1>
+</body>
+</html>
